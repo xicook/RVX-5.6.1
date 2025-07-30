@@ -1,3 +1,3 @@
-# RVX-5.6.1
+# RVX-5.6.2
 
-Patch version 5.6.1 of RVX (ReVanced Extended)
+Patch version 5.6.2 of RVX (ReVanced Extended)
